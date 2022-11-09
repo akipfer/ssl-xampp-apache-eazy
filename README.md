@@ -1,4 +1,5 @@
 # ssl-xampp-apache-eazy
+LER TUDO Antes de proseguir(p/ Windows) 
 Software usado para ssl + auto renewal win-acme -> https://www.win-acme.com/
 
 Link do post do tutorial na integra no site -> https://www.snel.com/support/install-lets-encrypt-with-apache-on-windows-server-2019/
